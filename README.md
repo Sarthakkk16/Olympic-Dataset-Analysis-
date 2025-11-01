@@ -18,7 +18,7 @@ This project focuses on Exploratory Data Analysis (EDA) of the Olympic Athletes 
 | **Event**       | Specific event (e.g., 100m sprint)                               |
 | **Medal**       | Type of medal won (`Gold`, `Silver`, `Bronze`, or `NaN` if none) |
 
-Key Insights
+## Key Insights
 
 Growth of female participation over time
 
@@ -29,7 +29,7 @@ Trends in athlete body metrics by sport
 Historical medal distributions
 
 
-Future Enhancements
+## Future Enhancements
 
 Add predictive modeling (e.g., medal prediction by athlete attributes)
 
